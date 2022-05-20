@@ -1,5 +1,6 @@
 refer to [https://github.com/ethz-asl/moma](https://github.com/ethz-asl/moma)
 
+this demo show how moveit trajectory send to gazebo to execute by effort_joint_trajectory_controller and we can get torque data from every joint
 roslaunch moma_bringup panda_moveit_gazebo.launch
 
 ![image](https://user-images.githubusercontent.com/13350158/169549138-28c8346b-6dc1-4971-bde7-f68993d420f6.png)
