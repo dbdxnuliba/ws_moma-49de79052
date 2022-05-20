@@ -1,0 +1,1 @@
+roslaunch moma_bringup panda_moveit_gazebo.launch
