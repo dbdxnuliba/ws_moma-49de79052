@@ -9,6 +9,8 @@ roslaunch moma_bringup panda_moveit_gazebo.launch
 
 ![image](https://user-images.githubusercontent.com/13350158/169553191-ad87786d-2be2-4708-bf83-7517052d30a2.png)
 
+![image](https://user-images.githubusercontent.com/13350158/169553419-cf08897a-aeab-4a11-b525-05051298a8ec.png)
+
  rosparam get /move_group/controller_list
  
 - action_ns: follow_joint_trajectory
